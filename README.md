@@ -14,3 +14,12 @@ To spin up this example locally, follow these steps:
     npm i --legacy-peer-deps
     npm run dev
 
+# Pictures
+
+![Screenshot (87)](https://github.com/user-attachments/assets/73e2977c-3c21-4e8e-b1f6-80b9e56dcb68)
+
+![Screenshot (88)](https://github.com/user-attachments/assets/bcf14966-5094-4794-8a3f-daa2f7317d83)
+
+![Screenshot (89)](https://github.com/user-attachments/assets/09d98c5a-356a-46df-89d6-3236c9cef34a)
+
+![Screenshot (92)](https://github.com/user-attachments/assets/6d8cacf4-5279-4cb9-acc4-e2d509ea278c)
